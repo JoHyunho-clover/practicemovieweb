@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/practicemovieweb/static/css/main.1d2afff4.chunk.css",
+    "main.js": "/practicemovieweb/static/js/main.47de6274.chunk.js",
+    "main.js.map": "/practicemovieweb/static/js/main.47de6274.chunk.js.map",
+    "runtime-main.js": "/practicemovieweb/static/js/runtime-main.e7e3314e.js",
+    "runtime-main.js.map": "/practicemovieweb/static/js/runtime-main.e7e3314e.js.map",
+    "static/js/2.35e390d2.chunk.js": "/practicemovieweb/static/js/2.35e390d2.chunk.js",
+    "static/js/2.35e390d2.chunk.js.map": "/practicemovieweb/static/js/2.35e390d2.chunk.js.map",
+    "index.html": "/practicemovieweb/index.html",
+    "static/css/main.1d2afff4.chunk.css.map": "/practicemovieweb/static/css/main.1d2afff4.chunk.css.map",
+    "static/js/2.35e390d2.chunk.js.LICENSE.txt": "/practicemovieweb/static/js/2.35e390d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e3314e.js",
+    "static/js/2.35e390d2.chunk.js",
+    "static/css/main.1d2afff4.chunk.css",
+    "static/js/main.47de6274.chunk.js"
+  ]
+}
